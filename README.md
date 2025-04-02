@@ -18,7 +18,7 @@ Use it for **debugging, analysis, and reverse engineering** Unity applications!
 ## 📦 Installation
 
 ### **1️⃣ Pre-Built Release (Recommended)**
-📅 **Download the latest release** from the [Releases section](https://github.com/yourusername/unity-pdb-drainer/releases) and run it instantly!
+📅 **Download the latest release** from the [Releases section](https://github.com/BottomLighOn/Unity-PDB-Drainer/releases) and run it instantly!
 
 ### **2️⃣ Build from Source**
 **🔹 Requirements:**  
@@ -28,8 +28,8 @@ Use it for **debugging, analysis, and reverse engineering** Unity applications!
 #### **Steps:**  
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/unity-pdb-drainer.git
-cd unity-pdb-drainer
+git clone https://github.com/BottomLighOn/Unity-PDB-Drainer.git
+cd Unity-PDB-Drainer
 
 # Install dependencies using vcpkg
 vcpkg install spdlog:x64-windows
